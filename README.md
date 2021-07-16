@@ -18,3 +18,4 @@ For AAVE liquidations, the important fields are the Updated At timestamp and the
 
 * With a free infura account, I can only afford to query about 10000 rounds per day.
 * Many of the price feeds are very new so there's not that much data.
+* The tools don't seem to exist right now to match up timestamp data to block number, so this makes tracing transactions very painful.
